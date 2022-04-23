@@ -1,2 +1,6 @@
-# dio-desafio-git-hub-primeiro-repositorio
-Desafio de projeto sobre Git/GitHub
+# Repositorio do desafio de projeto sobre Git/GitHub da DIO
+**Desafio de projeto sobre Git/GitHub** ℹ️
+
+## _Links uteis:_ 
+
+- https://www.markdownguide.org

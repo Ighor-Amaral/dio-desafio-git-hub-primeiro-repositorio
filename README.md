@@ -2,9 +2,9 @@
 
 **Tenha fácil acesso as informações base para seus estudos** ℹ️
 
-##### Atualizado com frequência :hourglass_flowing_sand:
+##### :arrow_right_hook: Atualizado com frequência :hourglass_flowing_sand:
 
-##### Recomendo fortemente a instalação de plugins de tradução para melhor compreensão do conteúdo :bell:
+##### :arrow_right_hook: Recomendo a instalação de extensão para tradução, facilitando a compreensão do conteúdo :bell:
 
 ## Links :link:
 

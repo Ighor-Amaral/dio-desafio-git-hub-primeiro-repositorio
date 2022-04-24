@@ -1,6 +1,6 @@
-# :arrow_forward: Desafio de projeto sobre Git/GitHub da DIO
+# :arrow_forward: Área do desenvolvedor
 
-**Repositorio criado para o desafio de projeto** ℹ️
+**Em constante atualizacão** ℹ️
 
 ## Links :link:
 

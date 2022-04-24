@@ -14,6 +14,9 @@
 - [W3Schools](https://www.w3schools.com)
 - [JQuery CDN](https://releases.jquery.com)
 - [Accordion](https://jqueryui.com/accordion/)
+- [XAMPP](https://www.apachefriends.org/pt_br/index.html)
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Notepad ++](https://notepad-plus-plus.org/downloads/)
  
  ## Referências (by w3schools) :pushpin:
  

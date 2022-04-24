@@ -10,7 +10,7 @@
 - [JQuery CDN](https://releases.jquery.com)
 - [Accordion](https://jqueryui.com/accordion/)
  
- ## References (by w3schools)
+ ## References (by w3schools) :pushpin:
  
  - [HTML](https://www.w3schools.com/tags/default.asp)
  - [HTML Color Names](https://www.w3schools.com/colors/colors_names.asp)

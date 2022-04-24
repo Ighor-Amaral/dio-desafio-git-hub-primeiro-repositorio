@@ -67,3 +67,5 @@
 - _**git rebase --continue**_ - _Continue um rebase após resolver os conflitos_
 - _**git mergetool**_ - _Use a ferramenta de fusã configurada do tour para resolver conflitos_
 - _**git add < resolved-file > | git rm < resolved-file >**_ - _Use o editor de tour para resolver conflitos manualmente e (após resolver) marcar o arquivo como resolvido_
+
+by: https://github.com/gabriele-amaral

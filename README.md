@@ -8,13 +8,14 @@
 
 ## Links :link:
 
+- [Tradutor](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=pt)
 - [Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
 - [Complete list emoji github](https://gist.github.com/rxaviers/7360908)
 - [W3Schools](https://www.w3schools.com)
 - [JQuery CDN](https://releases.jquery.com)
 - [Accordion](https://jqueryui.com/accordion/)
  
- ## References (by w3schools) :pushpin:
+ ## Referências (by w3schools) :pushpin:
  
  - [HTML](https://www.w3schools.com/tags/default.asp)
  - [HTML Color Names](https://www.w3schools.com/colors/colors_names.asp)

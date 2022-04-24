@@ -1,6 +1,8 @@
 # :arrow_forward: Área do desenvolvedor
 
-**Em constante atualizacão** ℹ️
+**Tenha fácil acesso as informações base para seus estudos** ℹ️
+
+###### Atualizado com frequência :hourglass_flowing_sand:
 
 ## Links :link:
 
